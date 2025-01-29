@@ -1,8 +1,4 @@
-<h1 align="center">
-    Loodus
-</h1>
-
-<img alt="Main project cover" src=".github/cover.png">
+<img alt="Main project cover" src=".github/cover.png" alt="Loodus">
 
 <br />
 
