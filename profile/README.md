@@ -1,7 +1,5 @@
 <img alt="Main project cover" src=".github/cover.png" alt="Loodus">
 
-<br />
-
 ## 👋 Sobre o Projeto
 
 O Loodus busca auxiliar no **processo de aquisição de linguagem de sinais** de crianças surdas com pais ouvintes, oferecendo às crianças um ambiente lúdico e interativo.
